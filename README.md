@@ -5,4 +5,4 @@ Without a basic understanding of how time is handled in PI it can be a struggle 
 
 Please see the associated videos:
 
-[PI Tip #5 Be kind, avoiding time formatting headaches when querying the PI System] (https://youtu.be/v1pWdvYpsYY)
+[PI Tip #5 Be kind, avoiding time formatting headaches when querying the PI System](https://youtu.be/v1pWdvYpsYY)
